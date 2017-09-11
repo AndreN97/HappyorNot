@@ -2,7 +2,7 @@
 <html lang="sv">
 <head>
     <meta charset="UTF-8" />
-    <title>Quiz med Formulär och PHP</title>
+    <title>Resultat</title>
 </head>
 <body>
 <h1>Resultat</h1>
