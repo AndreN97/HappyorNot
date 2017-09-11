@@ -8,13 +8,15 @@
 <h1>Resultat</h1>
 
 <?php
+mysqli_connect('localhost','root','123','mydatabase');
+
 $ansOne = $_POST['qOne'];
 $ansTwo = $_POST['qTwo'];
 $ansThree = $_POST['qThree'];
 $ansFour = $_POST['qFour'];
 $ansFive = $_POST['qFive'];
 
-echo "$ansOne $ansTwo $ansThree $ansFour $ansFive"
+header('Location: questions2.html')
 ?>
 
 </body>
