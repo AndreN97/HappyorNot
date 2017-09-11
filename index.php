@@ -5,6 +5,7 @@
     <title>Document</title>
 </head>
     <body>
+
         <form action="result.php" method="post">
             <label for="qOne">Fråga 1</label><br>
             <input type="radio" name="qOne" value="one">1<br>
@@ -41,5 +42,6 @@
             <input type="radio" name="qFive" value="four">4<br>
             <input type="radio" name="qFive" value="five">5<br><br>
             <input type="submit" value="Skicka" />
+
     </body>
 </html>
