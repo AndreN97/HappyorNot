@@ -5,7 +5,7 @@
     <title>Document</title>
 </head>
     <body>
-        <form action="result.php" method="post">
+        <form name="happyornot" action="result.php" method="post">
             <label for="qOne">Fråga 1</label><br>
             <input type="radio" name="qOne" id="q1a1" value="one">
             <label for="q1a1">1</label>
