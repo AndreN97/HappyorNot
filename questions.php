@@ -1,23 +1,22 @@
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
+    <link rel="stylesheet" type="text/css" href="style.css">
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
     <title>Document</title>
 </head>
+    <header>
+        <h2>Vad tyckte du om maten idag?</h2>
+    </header>
     <body>
-        <form class="question1" name="happyornot" action="result.php" method="post">
-            <label>Fråga 1</label><br>
-            <input type="radio" name="qOne" id="q1a1" value="one">
-            <label for="q1a1">1</label><br>
-            <input type="radio" name="qOne" id="q1a2" value="two">
-            <label for="q1a2">2</label><br>
-            <input type="radio" name="qOne" id="q1a3" value="three">
-            <label for="q1a3">3</label><br>
-            <input type="radio" name="qOne" id="q1a4" value="four">
-            <label for="q1a4">4</label><br>
-            <input type="radio" name="qOne" id="q1a5" value="five">
-            <label for="q1a5">5</label><br><br>
-            <input type="submit" value="Skicka" />
-        </form>
+        <div id="wrapper1">
+            <button class="button button3 button:hover">Very Happy</button>
+        </div>
+        <div id="wrapper2">
+            <button class="button button3 button:hover">Very Happy</button>
+        </div>
+        <div id="wrapper3">
+            <button class="button button3 button:hover">Very Happy</button>
+        </div>
     </body>
 </html>

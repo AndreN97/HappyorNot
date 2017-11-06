@@ -1,13 +1,42 @@
-<<<<<<< HEAD
-asdf
-asfasdfasdf
-asdf
-as
-dfa
-sdf
-asdasdasd
-=======
-asdfa
-asdfasdf
-asdfasdf
->>>>>>> origin/master
+button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    position: absolute;
+    top: 50%;
+    border-radius: 6px;
+}
+
+.button3 {
+    background-color: aqua;
+}
+
+.button:hover {
+    background-color: darkblue;
+    color: white;
+}
+.wrapper1 {
+    text-align: center;
+    float: left;
+}
+.wrapper2 {
+    text-align: center;
+}
+.wrapper3 {
+    text-align: center;
+    float: left;
+}
+
+
+
+header {
+    padding: 5%;
+    text-align: center;
+}
