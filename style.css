@@ -11,6 +11,8 @@ button {
     transition-duration: 0.4s;
     top: 50%;
     border-radius: 6px;
+    position: relative;
+    transform: translateY(-50%);
 }
 
 .button3 {
