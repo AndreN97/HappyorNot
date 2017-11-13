@@ -13,10 +13,10 @@
             <button class="button button3 button:hover">Very Happy</button>
         </div>
         <div id="wrapper2">
-            <button class="button button3 button:hover">Very Happy</button>
+            <button class="button button3 button:hover">VeryHappy</button>
         </div>
         <div id="wrapper3">
-            <button class="button button3 button:hover">Very Happy</button>
+            <button class="button button3 button:hover">Very  Happy</button>
         </div>
     </body>
 </html>
